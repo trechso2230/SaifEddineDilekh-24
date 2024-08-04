@@ -1,12 +1,11 @@
 - 👋 Hi, I’m @SaifEddine You can call me trechso
 - 👀 I’m interested in ...learning everything that helps build large projects
 - 🌱 I’m currently learning ...python 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...developing software and hardware in the future.
 - 📫 How to reach me ...trechso2230@gmail.com
 
 
 
 <!---
-trechso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+trechso will be a future technology company once I gain the necessary skills. Currently I am a student and working on developing myself.
 --->
